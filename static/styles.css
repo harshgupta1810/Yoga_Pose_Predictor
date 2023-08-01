@@ -1,0 +1,115 @@
+/* styles.css */
+/* styles.css */
+
+body {
+    background-color: #f5f5f5;
+    font-family: 'Your Chosen Font', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #555555;
+    margin-top: 50px;
+    font-size: 48px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: 'Your Chosen Decorative Font', cursive;
+    color: #00bcd4;
+}
+
+form {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#image-input {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border: 2px dashed #aaaaaa;
+    padding: 20px;
+    background-color: #ffffff;
+    font-size: 18px;
+    color: #555555;
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s ease;
+}
+
+#image-input:hover {
+    border-color: #00bcd4;
+}
+
+#predict-btn {
+    background-color: #00bcd4;
+    color: #ffffff;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 20px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+#predict-btn:hover {
+    background-color: #008c9e;
+    transform: scale(1.05);
+}
+
+#result {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 24px;
+    color: #555555;
+    font-family: 'Your Chosen Font', sans-serif;
+    color: #00bcd4;
+}
+
+body:before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('3.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.5;
+    z-index: -1;
+}
+
+
+/* Additional Styles for Attractiveness */
+
+h1 {
+    font-family: 'Your Chosen Decorative Font', cursive;
+    color: #00bcd4;
+}
+
+#image-input {
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#predict-btn {
+    background-color: #008c9e;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+#predict-btn:hover {
+    background-color: #006f7b;
+    transform: scale(1.05);
+}
+
+#result {
+    font-family: 'Your Chosen Font', sans-serif;
+    color: #00bcd4;
+}
+
+body:before {
+    background-image: url('3.png');
+    opacity: 0.8;
+}
