@@ -3,15 +3,16 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Project Description](#project-description)
-3. [Technologies Used](#Technologies-Used)
-4. [Badges](#badges)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Configuration](#configuration)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Acknowledgments](#acknowledgments)
-11. [Documentation](#documentation)
+3. [Demo pic](#demo)
+4. [Technologies Used](#Technologies-Used)
+5. [Badges](#badges)
+6. [Installation](#installation)
+7. [Usage](#usage)
+8. [Configuration](#configuration)
+9. [Contributing](#contributing)
+10. [License](#license)
+11. [Acknowledgments](#acknowledgments)
+12. [Documentation](#documentation)
 
 ## Introduction
 Welcome to the Yoga Pose Image Classification project! This project aims to classify different yoga poses from images using machine learning techniques.
@@ -46,6 +47,7 @@ This HTML file is the user interface for the application. It contains a form wit
 
 script.js
 This JavaScript file handles the form submission, image upload, and communication with the Flask backend. It uses the Fetch API to send the image data to the backend for prediction and displays the result on the webpage.
+
 
 
 ## Technologies Used
