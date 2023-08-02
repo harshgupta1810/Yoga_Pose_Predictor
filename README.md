@@ -113,6 +113,3 @@ Special thanks to Harsh Gupta for creating this project.
 
 ## Documentation
 For more details on the code implementation and function usage, refer to the code comments and documentation in the source files.
-
----
-*Note: The above readme assumes that the code has been organized as backend and frontend parts, and only the backend code is provided here. The example provided is a basic usage guide and does not cover all possible functionalities of the code. More extensive documentation would be provided in the source files and/or an accompanying website or documentation repository.*
