@@ -48,8 +48,11 @@ This HTML file is the user interface for the application. It contains a form wit
 script.js
 This JavaScript file handles the form submission, image upload, and communication with the Flask backend. It uses the Fetch API to send the image data to the backend for prediction and displays the result on the webpage.
 
-### Demo Photos
-![Photo 1](demo1.png)
+## Project Demo
+
+### Demo Photo
+![Demo Photo](demo1.png)
+
 
 ## Technologies Used
 
