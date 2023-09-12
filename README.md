@@ -1,4 +1,4 @@
-# Project Name: Yoga Pose Image Classification
+# Asana Analyzer: Yoga Pose Predictor
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -15,7 +15,7 @@
 12. [Documentation](#documentation)
 
 ## Introduction
-Welcome to the Yoga Pose Image Classification project! This project aims to classify different yoga poses from images using machine learning techniques.
+Welcome to the Asana Analyzer: Yoga Pose Predictor! This project aims to classify different yoga poses from images using machine learning techniques.
 
 ## Project Description
 This project has two parts: the backend and the frontend. The backend handles the model training and image classification, while the frontend provides a user-friendly interface to interact with the trained model.
